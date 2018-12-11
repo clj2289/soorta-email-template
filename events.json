@@ -1,0 +1,81 @@
+{
+	"title": "Soorta Sizzler just announced!",
+	"bannerImage": "https://s3.amazonaws.com/eventrigue.com/banner.jpg",
+	"events": [
+		{
+			"name":"Tucson-MLK Weekend",
+			"shortName": "Soorta Tuson",
+			"dates": "January 18-21, 2019",
+			"location": "Tucson, AZ",
+			"link":"https://www.facebook.com/events/436697463495176/",
+			"photo":"https://s3.amazonaws.com/eventrigue.com/tucson.jpg",
+			"description": "Join us for another great weekend of MTB Tandem riding. January weather in Tucson is routinely outstanding....highs in the upper 60's/low 70's, blue skies, and little wind.",
+			"host": {
+				"name": "Mark and Laura Russell"
+			},
+			"show": true,
+			"justAnnounced": false
+		},
+		{
+			"name":"SOORTA Santos",
+			"shortName":"SOORTA Santos",
+			"dates": "March 1-3, 2019",
+			"location": "Ocala, Fl",
+			"link":"https://www.facebook.com/events/1346306632172584/",
+			"photo":"https://s3.amazonaws.com/eventrigue.com/santos.jpg",
+			"description": "3rd annual!  Great event for all levels of riders!",
+			"host": {
+				"name": "Chris and Monica Judd",
+				"email": "clj2289@gmail.com"
+			},
+			"show": true,
+			"justAnnounced": true
+		},
+		{
+			"name":"Soorta Bentonville ",
+			"shortName":"Soorta Bentonville",
+			"dates": "Apr 25-28, 2019",
+			"location": "Bentonville, AR",
+			"link":"https://www.facebook.com/events/2442817489092531/",
+			"photo":"https://s3.amazonaws.com/eventrigue.com/bentonville.jpg",
+			"description": "Join other Tandem Mountain Bike enthusiasts as we experience Bentonville's many great mtb trail systems!",
+			"host": {
+				"name": "Alex and Kim Nutt",
+				"email": "alexnutt@mindspring.com"
+			},
+			"show": true,
+			"justAnnounced": true
+		},
+		{
+			"name":"Bike the Brek!",
+			"shortName":"Bike the Brek!",
+			"dates": "June 30- July 6, 2019",
+			"location": "Breckenridge, Co",
+			"link":"https://www.facebook.com/events/1987651804600948/",
+			"photo":"https://s3.amazonaws.com/eventrigue.com/breck.jpg",
+			"description": "Building on the success of Pedal the Butte, teams Hollansworth, Rudolph and Judds are very pleased to announce yet another Colorado SOORTA extravaganza!",
+			"host": {
+				"name": "Hollansworths, Rudolphs & Judds"
+			},
+			"show": true,
+			"justAnnounced": true
+		},
+		{
+			"name":"Soorta Sizzler",
+			"shortName":"Soorta Sizzler",
+			"dates": "July 26-28, 2019",
+			"location": "Jacksonville, Fl",
+			"link":"https://www.facebook.com/events/2284406025125166/",
+			"photo":"https://s3.amazonaws.com/eventrigue.com/soortasizzler.jpg",
+			"description": "Ride your tandem bike on some fun (shaded) trails and hang out on a beautiful Florida beach!",
+			"host": {
+				"name": "Chris and Monica Judd",
+				"email": "clj2289@gmail.com"
+			},
+			"show": true,
+			"justAnnounced": true
+		}
+	],
+	"picture1": "https://s3.amazonaws.com/eventrigue.com/picture1.jpg",
+	"picture2": "https://s3.amazonaws.com/eventrigue.com/picture2.jpg"
+}
