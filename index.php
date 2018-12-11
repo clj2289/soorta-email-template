@@ -98,7 +98,7 @@ $evt = json_decode($json_file);
                                     <td align="center">
                                        <div class="contentEditableContainer contentImageEditable">
                                           <div class="contentEditable" style="text-align:center;">
-                                             <img data-default="placeholder" src=<?=$evt->bannerImage; ?> data-max-width="600" width='600' style='background:#fc0d1b;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;'>
+                                             <img data-default="placeholder" src=<?=$evt->bannerImage; ?> data-max-width="600" width='600' style='border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;'>
                                           </div>
                                        </div>
                                     </td>
