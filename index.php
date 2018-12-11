@@ -143,7 +143,7 @@ $evt = json_decode($json_file);
 														}	
 														echo '<p style="text-align:left;">'. $event->description .'</p>';
 														echo '<br>';
-														echo '<p style="text-align:right;"><a target="_blank" class="link1" href="'. $event->link .'">Learn more '. $event->shortName .'</a></p>';
+														echo '<p style="text-align:right;"><a target="_blank" class="link1" href="'. $event->link .'">Learn more</a></p>';
 													echo '</div>';
 												echo '</div>';
 											echo '</td>';
