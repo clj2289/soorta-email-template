@@ -1,22 +1,7 @@
 {
 	"title": "Stowe Vermont Labor Day SOORTA just announced! Book your campsite for SOORTA Bentonville now (details below)!",
-	"bannerImage": "https://s3.amazonaws.com/eventrigue.com/banner.jpg",
+	"bannerImage": "https://s3.amazonaws.com/eventrigue.com/banner2.jpg",
 	"events": [
-		{
-			"name":"SOORTA Santos",
-			"shortName":"SOORTA Santos",
-			"dates": "March 1-3, 2019",
-			"location": "Ocala, Fl",
-			"link":"https://www.facebook.com/events/1346306632172584/",
-			"photo":"https://s3.amazonaws.com/eventrigue.com/santos.jpg",
-			"description": "3rd annual!  Great event for all levels of riders!  Still time to join in!",
-			"host": {
-				"name": "Chris and Monica Judd",
-				"email": "clj2289@gmail.com"
-			},
-			"show": true,
-			"justAnnounced": true
-		},
 		{
 			"name":"Soorta Bentonville ",
 			"shortName":"Soorta Bentonville",
@@ -64,7 +49,7 @@
 		{
 			"name":"Stowe Vermont Labor Day Weekend",
 			"shortName":"Stowe Vermont Labor Day Weekend",
-			"dates": "Aug 30 - Sept 2, 2019",
+			"dates": "Aug 30-Sept 2, 2019",
 			"location": "Stowe, VT",
 			"link":"https://www.facebook.com/events/378432399372973/",
 			"photo":"https://s3.amazonaws.com/eventrigue.com/stowe_vt_soorta.png",
@@ -75,8 +60,53 @@
 			},
 			"show": true,
 			"justAnnounced": true
+		},
+		{
+			"name":"ETOR 2019 Kingdom Trails",
+			"shortName":"ETOR 2019 Kingdom Trails",
+			"dates": "Sept 12-15, 2019",
+			"location": "East Burke, VT",
+			"link":"https://www.facebook.com/events/281317082697443/",
+			"photo":"https://s3.amazonaws.com/eventrigue.com/etor2020.jpg",
+			"description": "ETOR 2019 will be at Kingdom Trails in East Burke, VT with the host lodging at Moose River Campground in nearby St. Johnsbury, VT.",
+			"host": {
+				"name": "Brenda & Larry Isherwood",
+				"email": "tmbreeze@optonline.net"
+			},
+			"show": true,
+			"justAnnounced": true
+		},
+		{
+			"name":"SOORTA TdF 2020",
+			"shortName":"SOORTA TdF 2020",
+			"dates": "Jan 10-12, 2020",
+			"location": "Gainesville, FL",
+			"link":"https://www.facebook.com/events/551548138682524/",
+			"photo":"https://s3.amazonaws.com/eventrigue.com/tdf2020.jpg",
+			"description": "Come join us in Alachua, Florida next January for the 2020 Tour de Felasco!  We usually have a good turnout of tandems, so let’s get a campsite and turn it into a SOORTA event!  Registration for the Tour opens October 1st 2019.",
+			"host": {
+				"name": "Kris and Andrea Smith",
+				"email": "skoryd@gmail.com"
+			},
+			"show": true,
+			"justAnnounced": true
+		},
+		{
+			"name":"SOORTA TdF 2020",
+			"shortName":"SOORTA TdF 2020",
+			"dates": "Jan 24-25, 2020",
+			"location": "White Springs, FL",
+			"link":"https://www.facebook.com/events/2027258847369552/",
+			"photo":"https://s3.amazonaws.com/eventrigue.com/IDIDClear.png",
+			"description": "Lets SOORTA the SBA Ididaride 50 mile event once again!",
+			"host": {
+				"name": "Chris and Monica Judd",
+				"email": "clj2289@gmail.com"
+			},
+			"show": true,
+			"justAnnounced": true
 		}
 	],
-	"picture1": "https://s3.amazonaws.com/eventrigue.com/photo3.jpg",
-	"picture2": "https://s3.amazonaws.com/eventrigue.com/photo4.jpg"
+	"picture1": "https://s3.amazonaws.com/eventrigue.com/picture6.jpg",
+	"picture2": "https://s3.amazonaws.com/eventrigue.com/picture7.jpg"
 }
