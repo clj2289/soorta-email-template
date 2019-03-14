@@ -1,21 +1,7 @@
 {
-	"title": "Soorta Sizzler just announced!",
+	"title": "Stowe Vermont Labor Day SOORTA just announced! Book your campsite for SOORTA Bentonville now (details below)!",
 	"bannerImage": "https://s3.amazonaws.com/eventrigue.com/banner.jpg",
 	"events": [
-		{
-			"name":"Tucson-MLK Weekend",
-			"shortName": "Soorta Tuson",
-			"dates": "January 18-21, 2019",
-			"location": "Tucson, AZ",
-			"link":"https://www.facebook.com/events/436697463495176/",
-			"photo":"https://s3.amazonaws.com/eventrigue.com/tucson.jpg",
-			"description": "Join us for another great weekend of MTB Tandem riding. January weather in Tucson is routinely outstanding....highs in the upper 60's/low 70's, blue skies, and little wind.",
-			"host": {
-				"name": "Mark and Laura Russell"
-			},
-			"show": true,
-			"justAnnounced": false
-		},
 		{
 			"name":"SOORTA Santos",
 			"shortName":"SOORTA Santos",
@@ -23,7 +9,7 @@
 			"location": "Ocala, Fl",
 			"link":"https://www.facebook.com/events/1346306632172584/",
 			"photo":"https://s3.amazonaws.com/eventrigue.com/santos.jpg",
-			"description": "3rd annual!  Great event for all levels of riders!",
+			"description": "3rd annual!  Great event for all levels of riders!  Still time to join in!",
 			"host": {
 				"name": "Chris and Monica Judd",
 				"email": "clj2289@gmail.com"
@@ -38,7 +24,7 @@
 			"location": "Bentonville, AR",
 			"link":"https://www.facebook.com/events/2442817489092531/",
 			"photo":"https://s3.amazonaws.com/eventrigue.com/bentonville.jpg",
-			"description": "Join other Tandem Mountain Bike enthusiasts as we experience Bentonville's many great mtb trail systems!",
+			"description": "RV & Camping reservations can be made by contacting the RV park directly by <a href=https://bellavistapoa.com/thingstodo/recreation/rv-park/>clicking this link!</a> Please tell them that you are part of the SOORTA weekend group, as we have a block of sites set aside for the event. Join other Tandem Mountain Bike enthusiasts as we experience Bentonville's many great mtb trail systems!",
 			"host": {
 				"name": "Alex and Kim Nutt",
 				"email": "alexnutt@mindspring.com"
@@ -74,8 +60,23 @@
 			},
 			"show": true,
 			"justAnnounced": true
+		},
+		{
+			"name":"Stowe Vermont Labor Day Weekend",
+			"shortName":"Stowe Vermont Labor Day Weekend",
+			"dates": "Aug 30 - Sept 2, 2019",
+			"location": "Stowe, VT",
+			"link":"https://www.facebook.com/events/378432399372973/",
+			"photo":"https://s3.amazonaws.com/eventrigue.com/stowe_vt_soorta.png",
+			"description": "There are  fast, flowy and technical trails. There will be rocks, roots and you will climb. BUT they are fun and the area is beautiful. This event will be two weeks before <a href=https://www.facebook.com/events/281317082697443 >ETOR</a> (you don't want to miss that).",
+			"host": {
+				"name": "Al and Sandy Smith",
+				"email": "ssmith@gsinet.net"
+			},
+			"show": true,
+			"justAnnounced": true
 		}
 	],
-	"picture1": "https://s3.amazonaws.com/eventrigue.com/picture1.jpg",
-	"picture2": "https://s3.amazonaws.com/eventrigue.com/picture2.jpg"
+	"picture1": "https://s3.amazonaws.com/eventrigue.com/photo3.jpg",
+	"picture2": "https://s3.amazonaws.com/eventrigue.com/photo4.jpg"
 }
